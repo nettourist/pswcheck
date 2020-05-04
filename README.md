@@ -16,3 +16,12 @@ I created this git so that I can see how far I will go in a whole year of progra
 
 ## Contact with me
 id.porotnikov.ilya@gmail.com
+
+
+INSTALLATION
+------------
+	pip install -r /path/to/requirements.txt
+
+QUICK START
+------------
+	python main.py
