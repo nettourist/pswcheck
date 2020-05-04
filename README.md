@@ -2,8 +2,8 @@
 
 <p align="center">
 <a href="#"><img src="https://github.com/nettourist/src/blob/master/DISCORD.png"></a>
-<a href="vk.com/nettourist"><img src="https://github.com/nettourist/src/blob/master/VK.png"></a>
-<a href="github.com/nettourist"><img src="https://github.com/nettourist/src/blob/master/GITHUB.png"></a>
+<a href="https://vk.com/nettourist"><img src="https://github.com/nettourist/src/blob/master/VK.png"></a>
+<a href="https://github.com/nettourist"><img src="https://github.com/nettourist/src/blob/master/GITHUB.png"></a>
 </p>
 
 ## About Me
